@@ -21,6 +21,7 @@ The program should output the total price. Give a discount based on the total pr
 **Discount Rates**
 
 | Order Value | Discount Rate |
+|---|---|
 | $1,000 | 3% |
 | $5,000 | 5% |
 | $7,000 | 7% |
@@ -30,6 +31,7 @@ The program should output the total price. Give a discount based on the total pr
 **Taxes**
 
 | State | Tax Rate |
+|---|---|
 | UT | 6.85% |
 | NV | 8.00% |
 | TX | 6.25% |
